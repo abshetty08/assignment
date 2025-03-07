@@ -19,3 +19,5 @@ After the application has been built, it can be run using the following command:
 
 _Note: The input should be a valid integer. If it's not, the application will return
 0 as the output. The application also returns 0 if there is no solution._
+
+
